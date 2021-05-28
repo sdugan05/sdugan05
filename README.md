@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saul
 - 👀 I’m interested in Game Development, Game Hacking, and reverse engineering
-- 🌱 I’m currently learning Win32 Internals
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on anything :)
 - 📫 How to reach me Discord: Larry#3128
 
